@@ -1,0 +1,26 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title style="text-align: center;">{{title}}</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<!-- <ion-radio-group  (ionChange)="getTrail($event.detail.value)">
+  <ion-item *ngFor="let trail of allTrails">
+    <ion-label>Trail: {{ trail.id}} </ion-label>
+    <ion-radio slot="start" [value]="trail.id"></ion-radio>
+  </ion-item>
+</ion-radio-group> -->
+
+<ion-content>
+  <ion-radio-group (ionChange)="getValue($event)">
+    <ion-item *ngFor="let item of list" lines="none">
+      <ion-label>{{ item}} </ion-label>
+      <ion-radio slot="start" [value]="item"></ion-radio>
+    </ion-item>
+  </ion-radio-group>
+</ion-content>
+
+<ion-footer style="display: flex;">
+  <ion-button style="flex:50%" (click)="accept()">Ок</ion-button>
+  <ion-button style="flex:50%" (click)="cancel()">Отмена</ion-button>
+</ion-footer>

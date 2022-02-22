@@ -1,0 +1,7 @@
+{
+  "name": "bdfpoints",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

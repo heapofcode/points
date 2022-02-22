@@ -1,0 +1,53 @@
+<form [formGroup]="unitForm">
+  <ion-header [translucent]="true">
+    <ion-toolbar>
+      <ion-buttons slot="start">
+        <ion-button (click)="close()">
+          <ion-icon slot="icon-only" name="arrow-back-outline"></ion-icon>
+        </ion-button>
+      </ion-buttons>
+      <ion-buttons slot="end">
+        <ion-button [disabled]="!unitForm.valid" (click)="save()">
+          <ion-icon slot="icon-only" name="save-outline"></ion-icon>
+        </ion-button>
+      </ion-buttons>
+    </ion-toolbar>
+  </ion-header>
+
+  <ion-content>
+    <mat-form-field>
+      <mat-label>ФИО</mat-label>
+      <input matInput formControlName="fullName" />
+    </mat-form-field>
+
+    <mat-form-field>
+      <mat-label>Должность</mat-label>
+      <input matInput formControlName="position" />
+    </mat-form-field>
+
+    <mat-form-field>
+      <mat-label>Данные удостоверяющего документа</mat-label>
+      <input matInput formControlName="documentIdentity" />
+    </mat-form-field>
+
+    <mat-form-field>
+      <mat-label>Дата рождения</mat-label>
+      <input matInput [matDatepicker]="picker" placeholder="Дата рождения сотрудника" formControlName="birthDay" (click)="picker.open()">
+      <mat-datepicker-toggle matSuffix [for]="picker">
+        <mat-icon matDatepickerToggleIcon>
+        </mat-icon>
+      </mat-datepicker-toggle>
+      <mat-datepicker #picker></mat-datepicker>
+    </mat-form-field>
+
+    <mat-form-field>
+      <mat-label>Место рождения</mat-label>
+      <input matInput formControlName="birthPlace" />
+    </mat-form-field>
+
+    <mat-form-field>
+      <mat-label>Домашний адрес</mat-label>
+      <input matInput formControlName="homeAdress" />
+    </mat-form-field>
+  </ion-content>
+</form>

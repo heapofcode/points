@@ -1,0 +1,123 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <div *ngIf="state==='add'">
+        <ion-button [routerLink]="['/petition']">
+          <ion-icon slot="icon-only" name="add"></ion-icon>
+        </ion-button>
+        <!--
+        <ion-button (click)="docs()" style="margin-left: 5px;">
+          <ion-icon slot="icon-only" name="reader-outline"></ion-icon>
+        </ion-button> -->
+      </div>
+
+      <div *ngIf="state==='edit'">
+        <ion-button (click)="remove()">
+          <ion-icon slot="icon-only" name="trash-outline"></ion-icon>
+        </ion-button>
+
+        <ion-button (click)="edit()" style="margin-left: 5px">
+          <ion-icon slot="icon-only" name="create-outline"></ion-icon>
+        </ion-button>
+
+        <ion-button (click)="copy()" style="margin-left: 5px" disabled>
+          <ion-icon slot="icon-only" name="copy-outline"></ion-icon>
+        </ion-button>
+
+        <ion-button (click)="docs()" style="margin-left: 5px;">
+          <ion-icon slot="icon-only" name="reader-outline"></ion-icon>
+        </ion-button>
+      </div>
+
+      <div *ngIf="state==='remove'">
+        <ion-button (click)="remove()" disabled>
+          <ion-icon slot="icon-only" name="trash-outline"></ion-icon>
+        </ion-button>
+
+        <!-- <ion-button (click)="docs()" style="margin-left: 5px;">
+          <ion-icon slot="icon-only" name="reader-outline"></ion-icon>
+        </ion-button> -->
+      </div>
+
+    </ion-buttons>
+
+    <ion-buttons slot="end">
+      <ion-button (click)="logout()">
+        <ion-icon slot="icon-only" name="exit-outline"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content fullscreen="true">
+  <ion-card>
+    <ion-searchbar
+      #search
+      placeholder="Поиск"
+      (ionChange)="searchbarChange($event)"
+    ></ion-searchbar>
+
+    <mat-table [dataSource]="petitionSource" class="petitionTable mat-elevation-z8">
+      <ng-container matColumnDef="select">
+        <mat-header-cell *matHeaderCellDef>
+          <mat-checkbox
+            color="primary"
+            (change)="$event ? masterToggle() : null"
+            [checked]="selection.hasValue() && isAllSelected()"
+            [indeterminate]="selection.hasValue() && !isAllSelected()"
+            [aria-label]="checkboxLabel()"
+          >
+          </mat-checkbox>
+        </mat-header-cell>
+        <mat-cell *matCellDef="let petition">
+          <mat-checkbox
+            color="primary"
+            (click)="$event.stopPropagation()"
+            (change)="$event ? selection.toggle(petition) : null"
+            [checked]="selection.isSelected(petition)"
+            [aria-label]="checkboxLabel(petition)"
+          >
+          </mat-checkbox>
+        </mat-cell>
+      </ng-container>
+
+      <ng-container matColumnDef="date">
+        <mat-header-cell *matHeaderCellDef>Дата</mat-header-cell>
+        <mat-cell *matCellDef="let petition"
+          >{{petition.date | date:'dd-MM-YYYY'}}</mat-cell
+        >
+      </ng-container>
+
+      <ng-container matColumnDef="title">
+        <mat-header-cell *matHeaderCellDef>Организация</mat-header-cell>
+        <mat-cell *matCellDef="let petition">{{petition.title}}</mat-cell>
+      </ng-container>
+
+      <ng-container matColumnDef="reason">
+        <mat-header-cell *matHeaderCellDef>Причина</mat-header-cell>
+        <mat-cell *matCellDef="let petition">{{petition.reason}}</mat-cell>
+      </ng-container>
+
+      <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+      <mat-row
+        *matRowDef="let row; columns: displayedColumns;"
+        (click)="selection.toggle(row)"
+      ></mat-row>
+    </mat-table>
+  </ion-card>
+
+  <!-- <ion-fab vertical="bottom" horizontal="end" slot="fixed">
+    <ion-fab-button color="mat">
+      <ion-icon name="add"></ion-icon>
+    </ion-fab-button>
+    <ion-fab-list side="top">
+      <ion-fab-button>
+        <ion-icon name="reader"></ion-icon>
+      </ion-fab-button>
+
+      <ion-fab-button>
+        <ion-icon name="trash"></ion-icon>
+      </ion-fab-button>
+    </ion-fab-list>
+  </ion-fab> -->
+</ion-content>

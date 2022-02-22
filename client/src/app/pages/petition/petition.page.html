@@ -1,0 +1,143 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-back-button defaultHref="/"></ion-back-button>
+    </ion-buttons>
+    <ion-buttons slot="end">
+      <ion-button [disabled]="!petitionForm.valid" (click)="save()">
+        <ion-icon slot="icon-only" name="save-outline"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content fullscreen="true">
+  <form [formGroup]="petitionForm">
+    <ion-card >
+      <ion-card-content>
+        <mat-form-field>
+          <mat-label>Организация</mat-label>
+          <input matInput formControlName="title">
+        </mat-form-field>
+
+        <mat-form-field>
+          <mat-label>Причина</mat-label>
+          <input matInput formControlName="reason">
+        </mat-form-field>
+
+        <mat-form-field>
+          <mat-label>Интервал</mat-label>
+          <mat-date-range-input [rangePicker]="picker">
+            <input matStartDate placeholder="Начало периода" formControlName="dateFrom" (click)="picker.open()">
+            <input matEndDate placeholder="Конец периода" formControlName="dateTo" (click)="picker.open()">
+          </mat-date-range-input>
+          <mat-datepicker-toggle matSuffix [for]="picker">
+            <mat-icon matDatepickerToggleIcon>
+            </mat-icon>
+          </mat-datepicker-toggle>
+          <mat-date-range-picker #picker></mat-date-range-picker>
+        </mat-form-field>
+
+        <mat-form-field>
+          <mat-label>Пункты пропуска</mat-label>
+          <mat-select formControlName="points" [compareWith]="comparePoints" multiple>
+            <mat-option *ngFor="let points of publicData.points" [value]="points">{{points.title}}</mat-option>
+          </mat-select>
+        </mat-form-field>
+
+        <mat-form-field>
+          <mat-label>Тип</mat-label>
+          <mat-select formControlName="type" [compareWith]="compareTypes">
+            <mat-option *ngFor="let type of publicData.types" [value]="type.title">{{type.title}}</mat-option>
+          </mat-select>
+        </mat-form-field>
+
+        <mat-form-field>
+          <mat-label>Транспорт</mat-label>
+          <input matInput formControlName="vehicle">
+        </mat-form-field>
+
+      </ion-card-content>
+    </ion-card>
+
+    <ion-card>
+      <ion-card-header>
+        <ion-toolbar>
+          <ion-buttons slot="start">
+
+            <div *ngIf="stateUnits==='add'">
+              <ion-button (click)="unitActions('add')">
+                <ion-icon slot="icon-only" name="person-add-outline"></ion-icon>
+              </ion-button>
+            </div>
+
+            <div *ngIf="stateUnits==='edit'">
+              <ion-button (click)="unitActions('remove')">
+                <ion-icon slot="icon-only" name="trash-outline"></ion-icon>
+              </ion-button>
+
+              <ion-button (click)="unitActions('edit')" style="margin-left: 5px;">
+                <ion-icon slot="icon-only" name="create-outline"></ion-icon>
+              </ion-button>
+            </div>
+
+            <div *ngIf="stateUnits==='remove'">
+              <ion-button (click)="unitActions('remove')">
+                <ion-icon slot="icon-only" name="trash-outline"></ion-icon>
+              </ion-button>
+            </div>
+          </ion-buttons>
+
+        </ion-toolbar>
+      </ion-card-header>
+
+      <mat-table [dataSource]="unitSource" class="unitTable mat-elevation-z8">
+        <ng-container matColumnDef="select">
+          <mat-header-cell *matHeaderCellDef>
+            <mat-checkbox
+              color="primary"
+              (change)="$event ? masterToggle() : null"
+              [checked]="selection.hasValue() && isAllSelected()"
+              [indeterminate]="selection.hasValue() && !isAllSelected()"
+              [aria-label]="checkboxLabel()"
+            >
+            </mat-checkbox>
+          </mat-header-cell>
+          <mat-cell *matCellDef="let unit">
+            <mat-checkbox
+              color="primary"
+              (click)="$event.stopPropagation()"
+              (change)="$event ? selection.toggle(unit) : null"
+              [checked]="selection.isSelected(unit)"
+              [aria-label]="checkboxLabel(unit)"
+            >
+            </mat-checkbox>
+          </mat-cell>
+        </ng-container>
+
+        <ng-container matColumnDef="fullName">
+          <mat-header-cell *matHeaderCellDef> ФИО </mat-header-cell>
+          <mat-cell *matCellDef="let unit"> {{unit.fullName}} </mat-cell>
+        </ng-container>
+
+        <ng-container matColumnDef="position">
+          <mat-header-cell *matHeaderCellDef> Должность </mat-header-cell>
+          <mat-cell *matCellDef="let unit"> {{unit.position}} </mat-cell>
+        </ng-container>
+
+        <ng-container matColumnDef="documentIdentity">
+          <mat-header-cell *matHeaderCellDef> Паспорт </mat-header-cell>
+          <mat-cell *matCellDef="let unit"> {{unit.documentIdentity}} </mat-cell>
+        </ng-container>
+
+        <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+        <mat-row *matRowDef="let row; columns: displayedColumns;"
+        (click)="selection.toggle(row)"></mat-row>
+      </mat-table>
+    </ion-card>
+
+
+  </form>
+
+
+</ion-content>

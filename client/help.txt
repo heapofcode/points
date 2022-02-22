@@ -1,0 +1,62 @@
+>>>>>>electron
+
+# i create simple angular app
+ionic start example-app tabs --type angular
+cd example-app
+# i add @capacitor-community version of electron, since the original electron is deprecated
+npm i @capacitor-community/electron
+# required to get a www folder
+ionic build
+
+# add electron folder to project
+npx cap add @capacitor-community/electron
+# now we work inside electron project...
+!comment and replace======>
+
+[comment electron/src/index.ts]
+//autoUpdater.checkForUpdatesAndNotify();
+//setupContentSecurityPolicy(myCapacitorApp.getCustomURLScheme());
+
+[replac electron/src/setup.ts] тут подумать возможно схема и нужна!
+// Set a CSP up for our application based on the custom scheme
+export function setupContentSecurityPolicy(customScheme: string): void {
+  session.defaultSession.webRequest.onHeadersReceived((details, callback) => {
+    callback({
+      responseHeaders: {
+        ...details.responseHeaders,
+        'Content-Security-Policy': [
+             `default-src ${customScheme}://* 'unsafe-inline' devtools://* 'unsafe-eval' data:`
+        ],
+      },
+    });
+  });
+}
+
+cd electron
+# we can build project
+npm run build
+# we can start live project
+npm run electron:start-live
+# and now we have crash - just a blank white window
+npm run electron:pack
+
+"electron:windows": "npm run build:electron:prod && npx electron-builder build --windows",
+
+//comand
+"electron:mac": "electron-packager ./electron smet --overwrite --platform=darwin --arch=x64 --prune=true --out=release-builds",
+"electron:win": "electron-packager ./electron smet --overwrite --asar=true --platform=win32 --arch=x64 --prune=true --out=release-builds --version-string.CompanyName=CE --version-string.FileDescription=CE --version-string.ProductName='smet'"
+"electron:live": "electron/ npm run electron:start-live /build electron",
+
+"electron:windows": "electron/ npm run electron:pack",
+
+npx cap sync electron
+
+"android": "ionic capacitor build android (sync)"
+
+
+"files": [
+  "assets/**/*",
+  "build/**/*",
+  "capacitor.config.*",
+  "app/**/*"
+],

@@ -1,0 +1,33 @@
+<ion-content>
+  <div class="content">
+    <div class="login-mount">
+      <form (ngSubmit)="login()" [formGroup]="credentials">
+        <div class="input-group">
+          <ion-item>
+            <ion-input type="email" placeholder="Пользователь" formControlName="username"></ion-input>
+          </ion-item>
+          <div *ngIf="(username.dirty || username.touched) && username.errors" class="errors">
+            <span *ngIf="username.errors?.required">{{credentialMsg}}</span>
+          </div>
+          <ion-item>
+            <ion-input type="password" placeholder="Пароль" formControlName="password"></ion-input>
+          </ion-item>
+          <div *ngIf="(password.dirty || password.touched) && password.errors" class="errors">
+            <span *ngIf="password.errors?.required || password.errors?.minlength">{{credentialMsg}}</span>
+          </div>
+        </div>
+
+        <ion-button type="submit" expand="block" [disabled]="!credentials.valid" color="light">Войти</ion-button>
+
+        <ion-button type="button" expand="block" color="light" fill="clear">
+          <ion-icon name="logo-google" slot="start"></ion-icon>
+            Google
+        </ion-button>
+        <ion-button type="button" expand="block" color="light" fill="clear">
+          <ion-icon name="logo-apple" slot="start"></ion-icon>
+            Apple
+        </ion-button>
+      </form>
+    </div>
+  </div>
+</ion-content>

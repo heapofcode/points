@@ -1,0 +1,9 @@
+ion-content{
+  --padding-top:10px;
+
+  mat-form-field{
+    padding-inline-start: 10px;
+    padding-inline-end: 10px;
+    width: 100%;
+  }
+}

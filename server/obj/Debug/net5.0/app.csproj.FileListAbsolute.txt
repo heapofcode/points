@@ -1,0 +1,1319 @@
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\appsettings.Development.json
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\appsettings.json
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\app.exe
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\app.deps.json
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\app.runtimeconfig.json
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\app.runtimeconfig.dev.json
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\app.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\ref\app.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\app.pdb
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\obj\Debug\net5.0\app.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\ex\demoTodo\projectApp\nameAppService\app\obj\Debug\net5.0\app.AssemblyInfoInputs.cache
+D:\source\ex\demoTodo\projectApp\nameAppService\app\obj\Debug\net5.0\app.AssemblyInfo.cs
+D:\source\ex\demoTodo\projectApp\nameAppService\app\obj\Debug\net5.0\app.csproj.CoreCompileInputs.cache
+D:\source\ex\demoTodo\projectApp\nameAppService\app\obj\Debug\net5.0\app.MvcApplicationPartsAssemblyInfo.cache
+D:\source\ex\demoTodo\projectApp\nameAppService\app\obj\Debug\net5.0\staticwebassets\app.StaticWebAssets.Manifest.cache
+D:\source\ex\demoTodo\projectApp\nameAppService\app\obj\Debug\net5.0\staticwebassets\app.StaticWebAssets.xml
+D:\source\ex\demoTodo\projectApp\nameAppService\app\obj\Debug\net5.0\scopedcss\bundle\app.styles.css
+D:\source\ex\demoTodo\projectApp\nameAppService\app\obj\Debug\net5.0\app.RazorTargetAssemblyInfo.cache
+D:\source\ex\demoTodo\projectApp\nameAppService\app\obj\Debug\net5.0\app.csproj.CopyComplete
+D:\source\ex\demoTodo\projectApp\nameAppService\app\obj\Debug\net5.0\app.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\obj\Debug\net5.0\ref\app.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\obj\Debug\net5.0\app.pdb
+D:\source\ex\demoTodo\projectApp\nameAppService\app\obj\Debug\net5.0\app.genruntimeconfig.cache
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Humanizer.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\app.StaticWebAssets.xml
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\source\ex\demoTodo\projectApp\nameAppService\app\obj\Debug\net5.0\app.MvcApplicationPartsAssemblyInfo.cs
+D:\source\ex\demoTodo\projectApp\nameAppService\app\obj\Debug\net5.0\app.csprojAssemblyReference.cache
+D:\source\ex\demoTodo\projectApp 2\server\obj\Debug\net5.0\app.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\ex\demoTodo\projectApp 2\server\obj\Debug\net5.0\app.AssemblyInfoInputs.cache
+D:\source\ex\demoTodo\projectApp 2\server\obj\Debug\net5.0\app.AssemblyInfo.cs
+D:\source\ex\demoTodo\projectApp 2\server\obj\Debug\net5.0\app.csproj.CoreCompileInputs.cache
+D:\source\ex\demoTodo\projectApp 2\server\obj\Debug\net5.0\app.MvcApplicationPartsAssemblyInfo.cs
+D:\source\ex\demoTodo\projectApp 2\server\obj\Debug\net5.0\app.MvcApplicationPartsAssemblyInfo.cache
+D:\source\ex\demoTodo\projectApp 2\server\obj\Debug\net5.0\app.dll
+D:\source\ex\demoTodo\projectApp 2\server\obj\Debug\net5.0\ref\app.dll
+D:\source\ex\demoTodo\projectApp 2\server\obj\Debug\net5.0\app.pdb
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\appsettings.Development.json
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\app.StaticWebAssets.xml
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\appsettings.json
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\app.exe
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\app.deps.json
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\app.runtimeconfig.json
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\app.runtimeconfig.dev.json
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\app.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\ref\app.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\app.pdb
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Humanizer.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\source\ex\demoTodo\projectApp 2\server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\source\ex\demoTodo\projectApp 2\server\obj\Debug\net5.0\staticwebassets\app.StaticWebAssets.Manifest.cache
+D:\source\ex\demoTodo\projectApp 2\server\obj\Debug\net5.0\staticwebassets\app.StaticWebAssets.xml
+D:\source\ex\demoTodo\projectApp 2\server\obj\Debug\net5.0\scopedcss\bundle\app.styles.css
+D:\source\ex\demoTodo\projectApp 2\server\obj\Debug\net5.0\app.RazorTargetAssemblyInfo.cache
+D:\source\ex\demoTodo\projectApp 2\server\obj\Debug\net5.0\app.csproj.CopyComplete
+D:\source\ex\demoTodo\projectApp 2\server\obj\Debug\net5.0\app.genruntimeconfig.cache
+D:\source\ex\demoTodo\projectApp 2\server\obj\Debug\net5.0\app.csprojAssemblyReference.cache
+E:\Projects\NetCore\server\bin\Debug\net5.0\appsettings.Development.json
+E:\Projects\NetCore\server\bin\Debug\net5.0\appsettings.json
+E:\Projects\NetCore\server\bin\Debug\net5.0\app.StaticWebAssets.xml
+E:\Projects\NetCore\server\bin\Debug\net5.0\app.exe
+E:\Projects\NetCore\server\bin\Debug\net5.0\app.deps.json
+E:\Projects\NetCore\server\bin\Debug\net5.0\app.runtimeconfig.json
+E:\Projects\NetCore\server\bin\Debug\net5.0\app.runtimeconfig.dev.json
+E:\Projects\NetCore\server\bin\Debug\net5.0\app.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\ref\app.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\app.pdb
+E:\Projects\NetCore\server\bin\Debug\net5.0\Humanizer.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Projects\NetCore\server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Projects\NetCore\server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Projects\NetCore\server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Projects\NetCore\server\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Projects\NetCore\server\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Projects\NetCore\server\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Projects\NetCore\server\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Projects\NetCore\server\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Projects\NetCore\server\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Projects\NetCore\server\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\Projects\NetCore\server\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Projects\NetCore\server\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Projects\NetCore\server\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Projects\NetCore\server\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Projects\NetCore\server\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\NetCore\server\obj\Debug\net5.0\app.csproj.AssemblyReference.cache
+E:\Projects\NetCore\server\obj\Debug\net5.0\app.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\NetCore\server\obj\Debug\net5.0\app.AssemblyInfoInputs.cache
+E:\Projects\NetCore\server\obj\Debug\net5.0\app.AssemblyInfo.cs
+E:\Projects\NetCore\server\obj\Debug\net5.0\app.csproj.CoreCompileInputs.cache
+E:\Projects\NetCore\server\obj\Debug\net5.0\app.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\NetCore\server\obj\Debug\net5.0\app.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\NetCore\server\obj\Debug\net5.0\staticwebassets\app.StaticWebAssets.Manifest.cache
+E:\Projects\NetCore\server\obj\Debug\net5.0\staticwebassets\app.StaticWebAssets.xml
+E:\Projects\NetCore\server\obj\Debug\net5.0\scopedcss\bundle\app.styles.css
+E:\Projects\NetCore\server\obj\Debug\net5.0\app.RazorTargetAssemblyInfo.cache
+E:\Projects\NetCore\server\obj\Debug\net5.0\app.csproj.CopyComplete
+E:\Projects\NetCore\server\obj\Debug\net5.0\app.dll
+E:\Projects\NetCore\server\obj\Debug\net5.0\ref\app.dll
+E:\Projects\NetCore\server\obj\Debug\net5.0\app.pdb
+E:\Projects\NetCore\server\obj\Debug\net5.0\app.genruntimeconfig.cache
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.AspNetCore.OData.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.OData.Core.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.OData.Edm.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.Spatial.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Projects\NetCore\server\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\appsettings.Development.json
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\appsettings.json
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\app.StaticWebAssets.xml
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\app.exe
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\app.deps.json
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\app.runtimeconfig.json
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\app.runtimeconfig.dev.json
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\app.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\ref\app.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\app.pdb
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Humanizer.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.AspNetCore.OData.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.OData.Core.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.OData.Edm.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.Spatial.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DewProjects\Ionic\server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DewProjects\Ionic\server\obj\Debug\net5.0\app.csproj.AssemblyReference.cache
+D:\DewProjects\Ionic\server\obj\Debug\net5.0\app.GeneratedMSBuildEditorConfig.editorconfig
+D:\DewProjects\Ionic\server\obj\Debug\net5.0\app.AssemblyInfoInputs.cache
+D:\DewProjects\Ionic\server\obj\Debug\net5.0\app.AssemblyInfo.cs
+D:\DewProjects\Ionic\server\obj\Debug\net5.0\app.csproj.CoreCompileInputs.cache
+D:\DewProjects\Ionic\server\obj\Debug\net5.0\app.MvcApplicationPartsAssemblyInfo.cs
+D:\DewProjects\Ionic\server\obj\Debug\net5.0\app.MvcApplicationPartsAssemblyInfo.cache
+D:\DewProjects\Ionic\server\obj\Debug\net5.0\staticwebassets\app.StaticWebAssets.Manifest.cache
+D:\DewProjects\Ionic\server\obj\Debug\net5.0\staticwebassets\app.StaticWebAssets.xml
+D:\DewProjects\Ionic\server\obj\Debug\net5.0\scopedcss\bundle\app.styles.css
+D:\DewProjects\Ionic\server\obj\Debug\net5.0\app.RazorTargetAssemblyInfo.cache
+D:\DewProjects\Ionic\server\obj\Debug\net5.0\app.csproj.CopyComplete
+D:\DewProjects\Ionic\server\obj\Debug\net5.0\app.dll
+D:\DewProjects\Ionic\server\obj\Debug\net5.0\ref\app.dll
+D:\DewProjects\Ionic\server\obj\Debug\net5.0\app.pdb
+D:\DewProjects\Ionic\server\obj\Debug\net5.0\app.genruntimeconfig.cache
+d:\DewProjects\Ionic\СметБел\server\obj\Debug\net5.0\app.csproj.AssemblyReference.cache
+d:\DewProjects\Ionic\СметБел\server\obj\Debug\net5.0\app.GeneratedMSBuildEditorConfig.editorconfig
+d:\DewProjects\Ionic\СметБел\server\obj\Debug\net5.0\app.AssemblyInfoInputs.cache
+d:\DewProjects\Ionic\СметБел\server\obj\Debug\net5.0\app.AssemblyInfo.cs
+d:\DewProjects\Ionic\СметБел\server\obj\Debug\net5.0\app.csproj.CoreCompileInputs.cache
+d:\DewProjects\Ionic\СметБел\server\obj\Debug\net5.0\app.MvcApplicationPartsAssemblyInfo.cs
+d:\DewProjects\Ionic\СметБел\server\obj\Debug\net5.0\app.MvcApplicationPartsAssemblyInfo.cache
+d:\DewProjects\Ionic\СметБел\server\obj\Debug\net5.0\app.dll
+d:\DewProjects\Ionic\СметБел\server\obj\Debug\net5.0\ref\app.dll
+d:\DewProjects\Ionic\СметБел\server\obj\Debug\net5.0\app.pdb
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\appsettings.Development.json
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\appsettings.json
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\app.StaticWebAssets.xml
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\app.exe
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\app.deps.json
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\app.runtimeconfig.json
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\app.runtimeconfig.dev.json
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\app.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\ref\app.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\app.pdb
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Humanizer.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.AspNetCore.OData.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.OData.Core.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.OData.Edm.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.Spatial.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Newtonsoft.Json.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\System.Composition.Convention.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\System.Composition.Hosting.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\System.Composition.Runtime.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\System.Composition.TypedParts.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\System.Runtime.Caching.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+d:\DewProjects\Ionic\СметБел\server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+d:\DewProjects\Ionic\СметБел\server\obj\Debug\net5.0\staticwebassets\app.StaticWebAssets.Manifest.cache
+d:\DewProjects\Ionic\СметБел\server\obj\Debug\net5.0\staticwebassets\app.StaticWebAssets.xml
+d:\DewProjects\Ionic\СметБел\server\obj\Debug\net5.0\scopedcss\bundle\app.styles.css
+d:\DewProjects\Ionic\СметБел\server\obj\Debug\net5.0\app.RazorTargetAssemblyInfo.cache
+d:\DewProjects\Ionic\СметБел\server\obj\Debug\net5.0\app.csproj.CopyComplete
+d:\DewProjects\Ionic\СметБел\server\obj\Debug\net5.0\app.genruntimeconfig.cache
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\appsettings.Development.json
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\appsettings.json
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\app.StaticWebAssets.xml
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\app.exe
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\app.deps.json
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\app.runtimeconfig.json
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\app.runtimeconfig.dev.json
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\app.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\ref\app.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\app.pdb
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Humanizer.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.AspNetCore.OData.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.OData.Core.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.OData.Edm.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.Spatial.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DewProjects\Ionic\SmetBel\server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DewProjects\Ionic\SmetBel\server\obj\Debug\net5.0\app.csproj.AssemblyReference.cache
+D:\DewProjects\Ionic\SmetBel\server\obj\Debug\net5.0\app.GeneratedMSBuildEditorConfig.editorconfig
+D:\DewProjects\Ionic\SmetBel\server\obj\Debug\net5.0\app.AssemblyInfoInputs.cache
+D:\DewProjects\Ionic\SmetBel\server\obj\Debug\net5.0\app.AssemblyInfo.cs
+D:\DewProjects\Ionic\SmetBel\server\obj\Debug\net5.0\app.csproj.CoreCompileInputs.cache
+D:\DewProjects\Ionic\SmetBel\server\obj\Debug\net5.0\app.MvcApplicationPartsAssemblyInfo.cs
+D:\DewProjects\Ionic\SmetBel\server\obj\Debug\net5.0\app.MvcApplicationPartsAssemblyInfo.cache
+D:\DewProjects\Ionic\SmetBel\server\obj\Debug\net5.0\staticwebassets\app.StaticWebAssets.Manifest.cache
+D:\DewProjects\Ionic\SmetBel\server\obj\Debug\net5.0\staticwebassets\app.StaticWebAssets.xml
+D:\DewProjects\Ionic\SmetBel\server\obj\Debug\net5.0\scopedcss\bundle\app.styles.css
+D:\DewProjects\Ionic\SmetBel\server\obj\Debug\net5.0\app.RazorTargetAssemblyInfo.cache
+D:\DewProjects\Ionic\SmetBel\server\obj\Debug\net5.0\app.csproj.CopyComplete
+D:\DewProjects\Ionic\SmetBel\server\obj\Debug\net5.0\app.dll
+D:\DewProjects\Ionic\SmetBel\server\obj\Debug\net5.0\ref\app.dll
+D:\DewProjects\Ionic\SmetBel\server\obj\Debug\net5.0\app.pdb
+D:\DewProjects\Ionic\SmetBel\server\obj\Debug\net5.0\app.genruntimeconfig.cache
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\appsettings.Development.json
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\appsettings.json
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\app.StaticWebAssets.xml
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\app.exe
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\app.deps.json
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\app.runtimeconfig.json
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\app.runtimeconfig.dev.json
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\app.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\ref\app.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\app.pdb
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Humanizer.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.AspNetCore.OData.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.OData.Core.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.OData.Edm.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.Spatial.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DewProjects\Ionic\SmetBelv2\server\obj\Debug\net5.0\app.GeneratedMSBuildEditorConfig.editorconfig
+D:\DewProjects\Ionic\SmetBelv2\server\obj\Debug\net5.0\app.AssemblyInfoInputs.cache
+D:\DewProjects\Ionic\SmetBelv2\server\obj\Debug\net5.0\app.AssemblyInfo.cs
+D:\DewProjects\Ionic\SmetBelv2\server\obj\Debug\net5.0\app.csproj.CoreCompileInputs.cache
+D:\DewProjects\Ionic\SmetBelv2\server\obj\Debug\net5.0\app.MvcApplicationPartsAssemblyInfo.cs
+D:\DewProjects\Ionic\SmetBelv2\server\obj\Debug\net5.0\app.MvcApplicationPartsAssemblyInfo.cache
+D:\DewProjects\Ionic\SmetBelv2\server\obj\Debug\net5.0\staticwebassets\app.StaticWebAssets.Manifest.cache
+D:\DewProjects\Ionic\SmetBelv2\server\obj\Debug\net5.0\staticwebassets\app.StaticWebAssets.xml
+D:\DewProjects\Ionic\SmetBelv2\server\obj\Debug\net5.0\scopedcss\bundle\app.styles.css
+D:\DewProjects\Ionic\SmetBelv2\server\obj\Debug\net5.0\app.RazorTargetAssemblyInfo.cache
+D:\DewProjects\Ionic\SmetBelv2\server\obj\Debug\net5.0\app.csproj.CopyComplete
+D:\DewProjects\Ionic\SmetBelv2\server\obj\Debug\net5.0\app.dll
+D:\DewProjects\Ionic\SmetBelv2\server\obj\Debug\net5.0\ref\app.dll
+D:\DewProjects\Ionic\SmetBelv2\server\obj\Debug\net5.0\app.pdb
+D:\DewProjects\Ionic\SmetBelv2\server\obj\Debug\net5.0\app.genruntimeconfig.cache
+D:\DewProjects\Ionic\SmetBelv2\server\obj\Debug\net5.0\app.csproj.AssemblyReference.cache
+D:\DewProjects\Ionic\SmetBelv2\server\bin\Debug\net5.0\Microsoft.OData.ModelBuilder.dll
+d:\DewProjects\Test\server-border-petition\obj\Debug\net5.0\app.GeneratedMSBuildEditorConfig.editorconfig
+d:\DewProjects\Test\server-border-petition\obj\Debug\net5.0\app.AssemblyInfoInputs.cache
+d:\DewProjects\Test\server-border-petition\obj\Debug\net5.0\app.AssemblyInfo.cs
+d:\DewProjects\Test\server-border-petition\obj\Debug\net5.0\app.csproj.CoreCompileInputs.cache
+d:\DewProjects\Test\server-border-petition\obj\Debug\net5.0\app.MvcApplicationPartsAssemblyInfo.cs
+d:\DewProjects\Test\server-border-petition\obj\Debug\net5.0\app.MvcApplicationPartsAssemblyInfo.cache
+d:\DewProjects\Test\server-border-petition\obj\Debug\net5.0\app.dll
+d:\DewProjects\Test\server-border-petition\obj\Debug\net5.0\ref\app.dll
+d:\DewProjects\Test\server-border-petition\obj\Debug\net5.0\app.pdb
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\appsettings.Development.json
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\appsettings.json
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\app.StaticWebAssets.xml
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\app.exe
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\app.deps.json
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\app.runtimeconfig.json
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\app.runtimeconfig.dev.json
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\app.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\ref\app.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\app.pdb
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\Humanizer.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\Newtonsoft.Json.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+d:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+d:\DewProjects\Test\server-border-petition\obj\Debug\net5.0\staticwebassets\app.StaticWebAssets.Manifest.cache
+d:\DewProjects\Test\server-border-petition\obj\Debug\net5.0\staticwebassets\app.StaticWebAssets.xml
+d:\DewProjects\Test\server-border-petition\obj\Debug\net5.0\scopedcss\bundle\app.styles.css
+d:\DewProjects\Test\server-border-petition\obj\Debug\net5.0\app.RazorTargetAssemblyInfo.cache
+d:\DewProjects\Test\server-border-petition\obj\Debug\net5.0\app.csproj.CopyComplete
+d:\DewProjects\Test\server-border-petition\obj\Debug\net5.0\app.genruntimeconfig.cache
+D:\DewProjects\Test\server-border-petition\obj\Debug\net5.0\app.csproj.AssemblyReference.cache
+D:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+D:\DewProjects\Test\server-border-petition\bin\Debug\net5.0\System.IO.Packaging.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\appsettings.Development.json
+D:\Dew\Petition\server\bin\Debug\net5.0\appsettings.json
+D:\Dew\Petition\server\bin\Debug\net5.0\app.StaticWebAssets.xml
+D:\Dew\Petition\server\bin\Debug\net5.0\app.exe
+D:\Dew\Petition\server\bin\Debug\net5.0\base.db3
+D:\Dew\Petition\server\bin\Debug\net5.0\app.deps.json
+D:\Dew\Petition\server\bin\Debug\net5.0\app.runtimeconfig.json
+D:\Dew\Petition\server\bin\Debug\net5.0\app.runtimeconfig.dev.json
+D:\Dew\Petition\server\bin\Debug\net5.0\app.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\ref\app.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\app.pdb
+D:\Dew\Petition\server\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\Humanizer.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\System.IO.Packaging.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Dew\Petition\server\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Dew\Petition\server\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Dew\Petition\server\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Dew\Petition\server\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Dew\Petition\server\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Dew\Petition\server\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Dew\Petition\server\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Dew\Petition\server\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Dew\Petition\server\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Dew\Petition\server\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Dew\Petition\server\obj\Debug\net5.0\app.csproj.AssemblyReference.cache
+D:\Dew\Petition\server\obj\Debug\net5.0\app.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dew\Petition\server\obj\Debug\net5.0\app.AssemblyInfoInputs.cache
+D:\Dew\Petition\server\obj\Debug\net5.0\app.AssemblyInfo.cs
+D:\Dew\Petition\server\obj\Debug\net5.0\app.csproj.CoreCompileInputs.cache
+D:\Dew\Petition\server\obj\Debug\net5.0\app.MvcApplicationPartsAssemblyInfo.cs
+D:\Dew\Petition\server\obj\Debug\net5.0\app.MvcApplicationPartsAssemblyInfo.cache
+D:\Dew\Petition\server\obj\Debug\net5.0\scopedcss\bundle\app.styles.css
+D:\Dew\Petition\server\obj\Debug\net5.0\staticwebassets\app.StaticWebAssets.Manifest.cache
+D:\Dew\Petition\server\obj\Debug\net5.0\staticwebassets\app.StaticWebAssets.xml
+D:\Dew\Petition\server\obj\Debug\net5.0\app.RazorTargetAssemblyInfo.cache
+D:\Dew\Petition\server\obj\Debug\net5.0\app.csproj.CopyComplete
+D:\Dew\Petition\server\obj\Debug\net5.0\app.dll
+D:\Dew\Petition\server\obj\Debug\net5.0\ref\app.dll
+D:\Dew\Petition\server\obj\Debug\net5.0\app.pdb
+D:\Dew\Petition\server\obj\Debug\net5.0\app.genruntimeconfig.cache
